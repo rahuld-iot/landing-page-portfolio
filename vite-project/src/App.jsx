@@ -315,7 +315,7 @@ export default function BrightPortfolio() {
 
           <div className="flex flex-wrap justify-center gap-5">
             <a
-              href="https://wa.me/918072639335?text=Hi%20I%20need%20a%20landing%20page%20for%20my%20business"
+              href="https://wa.me/917305194866?text=Hi%20I%20need%20a%20landing%20page%20for%20my%20business"
               className="px-8 py-4 rounded-2xl bg-orange-500 text-white font-semibold hover:scale-105 transition"
             >
               WhatsApp Me
@@ -329,7 +329,7 @@ export default function BrightPortfolio() {
             </a>
 
             <a
-              href="tel:+91 7305194866"
+              href="tel:+917305194866"
               className="px-8 py-4 rounded-2xl border border-zinc-300 hover:border-orange-500 transition"
             >
               Call Me
