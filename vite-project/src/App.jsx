@@ -329,7 +329,7 @@ export default function BrightPortfolio() {
             </a>
 
             <a
-              href="tel:+918072639335"
+              href="tel:+91 7305194866"
               className="px-8 py-4 rounded-2xl border border-zinc-300 hover:border-orange-500 transition"
             >
               Call Me
